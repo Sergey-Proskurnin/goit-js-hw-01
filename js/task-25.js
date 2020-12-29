@@ -19,3 +19,6 @@ console.log(checkStorage(100, 130));
 console.log(checkStorage(200, 20));
 console.log(checkStorage(200, 150));
 console.log(checkStorage(150, 180));
+
+// Задание
+// Выполни рефакторинг решения задачи «Склад товаров», заменив инструкцию if...else тернарным оператором.

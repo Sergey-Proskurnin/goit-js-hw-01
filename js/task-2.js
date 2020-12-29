@@ -7,3 +7,7 @@ productName = 'Ремонтный дроид';
 pricePerItem += 1500;
 console.log(productName);
 console.log(pricePerItem);
+
+// Задание
+// Имя товара изменили на 'Ремонтный дроид' и
+// увеличили его цену на 1500 кредитов.Переопредели значения переменных pricePerItem и productName после их объявления.
